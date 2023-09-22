@@ -5,6 +5,8 @@ No meu último trabalho do Curso Explorer da RocketSeat, eu criei o "Food Explor
 ## Disclaimer:
 Após a revisão do orientador, foram corrigidos alguns problemas no código, um deles estava relacionado ao usuário "admin", que não conseguia fazer o upload dos pratos. Além disso, além de resolver esses problemas, consegui implementar melhorias adicionais, tornando o sistema mais sofisticado.
 
+Neste meio tempo, também fiz algumas mudanças no frontend da aplicação, com o objetivo de tornar as coisas mais estéticas e fluidas para o usuário.
+
 `(Para usar esta função de admin, por favor, utilize o login de admin citado abaixo.)`
 
 ## Sobre:
