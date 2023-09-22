@@ -2,6 +2,11 @@
 
 No meu último trabalho do Curso Explorer da RocketSeat, eu criei o "Food Explorer", um menu que você pode usar num restaurante de mentirinha. Ele é legal porque funciona bem tanto em celular, tablet quanto no computador normal.
 
+## Disclaimer:
+Após a revisão do orientador, foram corrigidos alguns problemas no código, um deles estava relacionado ao usuário "admin", que não conseguia fazer o upload dos pratos. Além disso, além de resolver esses problemas, consegui implementar melhorias adicionais, tornando o sistema mais sofisticado.
+##ATENÇÃO!
+`(Para usar esta função, por favor, utilize o login de admin citado abaixo.)`
+
 ## Sobre:
 
 A aplicação é um site completo que abrange desde a exibição de um prato até o processo de pagamento.
@@ -44,10 +49,18 @@ Tanto o admin quanto o pessoal que usa o site podem buscar pratos pelo nome ou p
 
 _`Isso irá iniciar o servidor de desenvolvimento do FRONT-END, e criará um link para rodar em sua maquina local, copie o link que ira gerar no terminal, abra um navegador e cole o link. Agora você pode ver o projeto em execução!`_
 
+### Login Admin
+
+`email: admin@email.com`
+`senha: 123456`
+
+O servidor deste projeto encontra-se hospedado no Render, um serviço de hospedagem gratuito. É importante destacar que, devido à sua natureza gratuita, o back-end entra em estado de hibernação após 15 minutos de inatividade. Se um usuário tentar acessar o site e não receber uma resposta do back-end, será necessário aguardar um curto período, pois ele estará em processo de "inicialização" dos serviços novamente. O tempo de inicialização pode variar, podendo levar até 1 minuto, dependendo da carga nos servidores do Render. É crucial ressaltar que esse período de inicialização pode impactar o desempenho da aplicação, especialmente em momentos de alta demanda.
+
+O front-end foi hospedado na plataforma Netlify, que oferece a possibilidade de hospedar sites e aplicativos web de forma gratuita. Para garantir o funcionamento adequado do front-end, é imprescindível que o servidor de back-end esteja operando e respondendo corretamente. Caso contrário, o front-end poderá apresentar erros ou comportamentos inesperados.
 
 ### Deploy do Projeto
 
-<a href='https://classy-sunshine-a6d57c.netlify.app/' target='_blank'>https://classy-sunshine-a6d57c.netlify.app/</a>
+<a href='https://voluble-creponne-a9057b.netlify.app/' target='_blank'>https://voluble-creponne-a9057b.netlify.app/</a>
 
 ### Contato
 
